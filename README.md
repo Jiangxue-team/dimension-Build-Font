@@ -34,4 +34,6 @@ If you want to learn font design, after designing in Figma, you can group it and
 [Birdfont](https://birdfont.org/) is a very simple and lightweight font design software, you can learn it quickly by reading [Create a ligature in Birdfont](https://youtu.be/S6rsphadADY)
 
 # SIL Open Font License
+![](info.png)
+
 I know you're probably wondering about the licensing for the font. I can assure you that we use the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) for Dimension-Build Font. This means you can use it for free, whether you're an individual, an organization, or a commercial entity."
