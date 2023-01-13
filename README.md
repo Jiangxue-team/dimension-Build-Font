@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200">
+  <img src="./assets/logo.png" width="200">
   <h2 align="center">Dimension-Build-Font</h2>
   <div align="center">
     <a href="https://github.com/Jiangxue-team/Dimension-Build-Font/releases">Download</a> - 
@@ -10,7 +10,7 @@
 </p>
 
 # Introduce
-![](overviewpng.png)
+![](./assets/font.png)
 Dimension-Build" font is designed with a cool style to convey messages, as cool designs always give a sense of the future and empower people with a sense of hope and expectation for the future. The design intention of "Dimension-Build Font" is to "build one's own world and ideas." 
 
 We aim to use "Dimension-Build" to give your projects or designs a cool, futuristic style, while embracing the culture of hackers and geeks, and contributing to the open-source movement
@@ -34,6 +34,4 @@ If you want to learn font design, after designing in Figma, you can group it and
 [Birdfont](https://birdfont.org/) is a very simple and lightweight font design software, you can learn it quickly by reading [Create a ligature in Birdfont](https://youtu.be/S6rsphadADY)
 
 # SIL Open Font License
-![](info.png)
-
 I know you're probably wondering about the licensing for the font. I can assure you that we use the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) for Dimension-Build Font. This means you can use it for free, whether you're an individual, an organization, or a commercial entity."
