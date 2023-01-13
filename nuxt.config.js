@@ -12,7 +12,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: 'https://raw.githubusercontent.com/rhyme-qing/picture-bed/main/outher/202301140015146.ico' }
     ]
   },
 
@@ -42,5 +42,9 @@ export default {
 
   generate: {
     dir: 'docs'
+  },
+
+  router: {
+    base: '/Dimension-Build-Font/'
   }
 }
