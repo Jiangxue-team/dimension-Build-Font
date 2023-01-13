@@ -9,13 +9,21 @@
     "generate": "nuxt generate",
     "serve": "live-server"
   },
-  "dependencies": {
-    "live-server": "^1.2.2",
-    "core-js": "^3.25.3",
+  "devDependencies": {
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
+    "core-js": "^3.25.3",
+    "vue-router": "^3.5.3"
+  },
+  "dependencies": {
+    "consola": "*",
+    "live-server": "^1.2.2",
+    "node-fetch": "^2.6.8",
+    "ufo": "^1.0.1",
+    "vue-client-only": "^2.1.0",
+    "vue-meta": "^2.4.0",
+    "vue-no-ssr": "^1.1.1",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
-  },
-  "devDependencies": {}
+  }
 }
