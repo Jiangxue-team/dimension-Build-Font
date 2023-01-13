@@ -4,7 +4,7 @@
   <div align="center">
     <a href="https://github.com/Jiangxue-team/Dimension-Build-Font/releases">Download</a> - 
     <a href="https://github.com/Jiangxue-team/Dimension-Build-Font/issues">Issues</a> - 
-    <a href="">License</a>
+    <a href="https://github.com/Jiangxue-team/Dimension-Build-Font/blob/main/license">License</a>
   </div>
   <p align="center">It currently only supports uppercase English letters and common symbols. If you have any requests, you can submit them in the Issues section for consideration for future design.</p>
 </p>
