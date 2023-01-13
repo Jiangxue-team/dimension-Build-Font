@@ -1,14 +1,15 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'dimension-build-font',
+    title: 'Dimension-Build Font | A futuristic and hacker-styled font',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Dimension-Build Font is a futuristic and hacker-styled font designed in 2022. It includes uppercase letters and basic symbols. Its v1.0.4 is the first release, and v2 will include lowercase letters.' },
+      { hid: 'keywords', name: 'keywords', content: 'Dimension-Build Font, futuristic font, hacker font, uppercase letters' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
