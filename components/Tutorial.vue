@@ -2,7 +2,7 @@
 <template>
   <div>
     <div class="text">
-      <p class="title"><img src="/logo.png" class="info"/></p>
+      <p class="title"><img src="/static/logo.png" class="info"/></p>
       <h1 class="title">Dimension-Build-Font</h1>
       <p>It currently only supports uppercase English letters and common symbols. If you have any requests, you can submit them in the Issues section for consideration for future design.</p>
       <p class="title">
@@ -13,7 +13,7 @@
     </div>
     <div class="text">
       <h1>Introduce</h1>
-      <img src="/font.png" class="font"/>
+      <img src="/static/font.png" class="font"/>
       <p>Dimension-Build" font is designed with a cool style to convey messages, as cool designs always give a sense of the future and empower people with a sense of hope and expectation for the future. The design intention of "Dimension-Build Font" is to "build one's own world and ideas."</p>
       <p>We aim to use "Dimension-Build" to give your projects or designs a cool, futuristic style, while embracing the culture of hackers and geeks, and contributing to the open-source movement</p>
       <h1>Issues</h1>
@@ -140,7 +140,7 @@ export default {
 body {
   background-repeat: no-repeat !important;
   background: #000000;
-  background-image: url('/back.png');
+  background-image: url('/static/back.png');
   background-position: center;
   margin: 0 auto;
   width: 50%;
